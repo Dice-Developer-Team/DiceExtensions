@@ -1,0 +1,11 @@
+{
+    {
+        "name": "test",
+        "version": "0.0.1",
+        "version_code": 1,
+        "desc": "测试",
+        "download_link": "",
+        "author": "溯洄",
+        "type": "Deck"
+    }
+}
