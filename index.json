@@ -7,5 +7,13 @@
         "download_link": "",
         "author": "溯洄",
         "type": "Deck"
+    },
+    {
+        "name": "向火独行",
+        "version": "0.1",
+        "version_code": 1,
+        "desc": "COC7版单人冒险书《向火独行(ALONE AGAINST THE FLAMES)》 Lua脚本",
+        "author": "Shiki，规则书翻译 by 粉毛提督七宫涟等, 规则书 by Chaosium",
+        "type": "Lua"
     }
 ]
