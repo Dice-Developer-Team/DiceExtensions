@@ -7,7 +7,7 @@ Dice Extensions Repo
 
 PR中应修改index.json，添加属于你的条目，并上传"你的条目名称.zip"文件
 
-请注意：zip文件中的文件名不应包含非ASCII字符
+请注意：zip必须使用deflate算法压缩，且zip文件中的文件名不应包含非ASCII字符
 
 
 
