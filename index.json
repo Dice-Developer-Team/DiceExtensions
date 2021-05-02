@@ -16,5 +16,14 @@
         "download_link": "",
         "author": "Shiki，规则书翻译 by 粉毛提督七宫涟等, 规则书 by Chaosium",
         "type": "Lua"
+    },
+    {
+        "name": "Arcaea",
+        "version": "3.4.0",
+        "version_code": 50,
+        "desc": "韵律源点 Arcaea 曲目合集，或许可以用作 Arcaea 竞技?",
+        "download_link": "",
+        "author": "Azusa",
+        "type": "Deck"
     }
 ]
