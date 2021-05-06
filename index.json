@@ -7,5 +7,14 @@
         "download_link": "",
         "author": "Azusa",
         "type": "Deck"
+    },
+    {
+        "name": "coc武器",
+        "version": "20200624",
+        "version_code": 1,
+        "desc": "coc常用武器牌堆",
+        "download_link": "",
+        "author": "Fishroud",
+        "type": "Deck"
     }
 ]
