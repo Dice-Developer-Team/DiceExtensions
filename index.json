@@ -239,7 +239,16 @@
         "version_code": 5,
         "desc": "公主连结游戏的国服抽卡模拟，包含单抽、十连抽、限时UP、十连必得以及直抽一井，整体结构便于跟随游戏版本修改",
         "download_link": "",
-        "author": "陈末/Jigsaw",
-        "type": "书架菌"
+        "author": "书架菌",
+        "type": "Deck"
+    },
+    {
+        "name": "喵苏鲁",
+        "version": "20200623",
+        "version_code": 5,
+        "desc": "用于生成喵苏鲁规则下的人物属性。",
+        "download_link": "",
+        "author": "书架菌",
+        "type": "Deck"
     }
 ]
