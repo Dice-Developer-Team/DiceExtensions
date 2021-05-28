@@ -151,5 +151,14 @@
         "download_link": "",
         "author": "仑质（BenzenPenxil）",
         "type": "Deck"
+    },
+    {
+        "name": "DND3R法术牌堆",
+        "version": "200625",
+        "version_code": 5,
+        "desc": "包含了DND3R中的法术条目。关键词为DNDTR法术",
+        "download_link": "",
+        "author": "仑质（BenzenPenxil）& 鱼仙",
+        "type": "Deck"
     }
 ]
