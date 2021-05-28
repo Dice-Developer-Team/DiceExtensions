@@ -178,5 +178,14 @@
         "download_link": "",
         "author": "魔都MODS、各模组作者、仑质",
         "type": "Deck"
+    },
+    {
+        "name": "魔都模组牌堆卡片版",
+        "version": "20200814",
+        "version_code": 5,
+        "desc": "包含了魔都模组站截至更新日期前的所有模组。",
+        "download_link": "",
+        "author": "魔都MODS、各模组作者、仑质",
+        "type": "Deck"
     }
 ]
