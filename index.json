@@ -313,5 +313,14 @@
         "download_link": "",
         "author": "星空",
         "type": "Deck"
+    },
+    {
+        "name": "WarFrame裂罅",
+        "version": "20200624",
+        "version_code": 5,
+        "desc": "WarFrame星际战甲 裂罅生成",
+        "download_link": "",
+        "author": "书架菌",
+        "type": "Deck"
     }
 ]
