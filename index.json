@@ -304,5 +304,14 @@
         "download_link": "",
         "author": "灭星道人",
         "type": "Deck"
+    },
+    {
+        "name": "系统警告",
+        "version": "v1.0.0",
+        "version_code": 5,
+        "desc": "error 内容暂缺)))一个随性之作，重现你电脑的错误（bushi），仅供娱乐",
+        "download_link": "",
+        "author": "星空",
+        "type": "Deck"
     }
 ]
