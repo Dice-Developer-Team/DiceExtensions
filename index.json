@@ -124,5 +124,14 @@
         "download_link": "",
         "author": "星空",
         "type": "Deck"
+    },
+    {
+        "name": "诡秘之主",
+        "version": "1.0.0_β",
+        "version_code": 5,
+        "desc": "在@杉波神社开发组 的调查员牌堆基础上更改了部分内容而做成的诡秘之主牌堆，引入了诡秘之主地名，诡秘之主魔药，诡秘之主信仰与诡秘之主非凡者组织，并基于Mr.GTM撰写的诡秘之主规则书分布概率模型",
+        "download_link": "",
+        "author": "陈末/Jigsaw",
+        "type": "Deck"
     }
 ]
