@@ -250,5 +250,14 @@
         "download_link": "",
         "author": "书架菌",
         "type": "Deck"
+    },
+    {
+        "name": "答案之书",
+        "version": "20200623",
+        "version_code": 5,
+        "desc": "随机抽取《答案之书》的一页，帮你做决定",
+        "download_link": "",
+        "author": "书架菌",
+        "type": "Deck"
     }
 ]
