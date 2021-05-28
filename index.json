@@ -16,5 +16,14 @@
         "download_link": "",
         "author": "Fishroud",
         "type": "Deck"
+    },
+    {
+        "name": "测试酒吧",
+        "version": "v1.1.1",
+        "version_code": 5,
+        "desc": "本牌堆为娱乐性质牌堆，你有机会走进酒吧要一杯啤酒，也有机会要0.7份烤肠，品尝【数据删除】杯烫烫烫的锟斤拷，从后门离开酒馆把老板打一顿并从酒馆门口呼啸而过",
+        "download_link": "",
+        "author": "静海夜见",
+        "type": "Deck"
     }
 ]
