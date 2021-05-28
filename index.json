@@ -133,5 +133,14 @@
         "download_link": "",
         "author": "陈末/Jigsaw",
         "type": "Deck"
+    },
+    {
+        "name": "DND5E人物做成",
+        "version": "v1.3.1",
+        "version_code": 5,
+        "desc": "用來快速整一個dnd5e的一級卡",
+        "download_link": "",
+        "author": "阿帕尼",
+        "type": "Deck"
     }
 ]
