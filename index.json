@@ -277,5 +277,14 @@
         "download_link": "",
         "author": "鱼仙",
         "type": "Deck"
+    },
+    {
+        "name": "玛丽苏名字",
+        "version": "20200623",
+        "version_code": 5,
+        "desc": "随机生成玛丽苏风格的名字，可以使用命名指令调用",
+        "download_link": "",
+        "author": "书架菌",
+        "type": "Deck"
     }
 ]
