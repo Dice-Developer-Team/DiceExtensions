@@ -97,5 +97,14 @@
         "download_link": "",
         "author": "幽月琉璃",
         "type": "Deck"
+    },
+    {
+        "name": "早餐",
+        "version": "v1.0",
+        "version_code": 5,
+        "desc": "本牌堆为娱乐性质牌堆，包含了大量的早餐内容(中式早餐、日式早餐、欧式早餐)，虽然是早餐但是也很适合深夜放毒，欢迎大家的使用！",
+        "download_link": "",
+        "author": "涩谷",
+        "type": "Deck"
     }
 ]
