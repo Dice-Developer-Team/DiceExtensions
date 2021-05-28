@@ -70,5 +70,14 @@
         "download_link": "",
         "author": "清兰流星",
         "type": "Deck"
+    },
+    {
+        "name": "东方正作STG",
+        "version": "v1.0",
+        "version_code": 5,
+        "desc": "使用该牌堆可以一键抽取Win版东方弹幕正作的「作品」「难度」「使用角色」「使用装备/支援」，也可以单独对某一作品进行机体和难度的抽取选择",
+        "download_link": "",
+        "author": "清兰流星",
+        "type": "Deck"
     }
 ]
