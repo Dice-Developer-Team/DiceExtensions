@@ -205,5 +205,14 @@
         "download_link": "",
         "author": "Suomi-KP31",
         "type": "Deck"
+    },
+    {
+        "name": "COC村规",
+        "version": "V1.0",
+        "version_code": 5,
+        "desc": "来一场本格COC跑团吧",
+        "download_link": "",
+        "author": "哦哦君",
+        "type": "Deck"
     }
 ]
