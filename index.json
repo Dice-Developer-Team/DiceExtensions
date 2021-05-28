@@ -295,5 +295,14 @@
         "download_link": "",
         "author": "书架菌",
         "type": "Deck"
+    },
+    {
+        "name": "克苏鲁世界",
+        "version": "1.4",
+        "version_code": 5,
+        "desc": "以克苏鲁时空穿梭规则为提取信息所加工的不同时代克苏鲁世界，包含不同人名文化搭配（关键词.name ac或者.draw 随机文化姓名）",
+        "download_link": "",
+        "author": "灭星道人",
+        "type": "Deck"
     }
 ]
