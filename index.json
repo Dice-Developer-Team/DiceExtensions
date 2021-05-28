@@ -79,5 +79,14 @@
         "download_link": "",
         "author": "清兰流星",
         "type": "Deck"
+    },
+    {
+        "name": "富饶之城",
+        "version": "20210404",
+        "version_code": 5,
+        "desc": "这是一个自制的牌堆，它基于现实的桌游，富饶之城改编创建的，这是基础版本，还处于更新状态。",
+        "download_link": "",
+        "author": "兰山鲨鱼（lanshanshayu）",
+        "type": "Deck"
     }
 ]
