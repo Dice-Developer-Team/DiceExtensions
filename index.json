@@ -214,5 +214,14 @@
         "download_link": "",
         "author": "哦哦君",
         "type": "Deck"
+    },
+    {
+        "name": "明日方舟干员简历",
+        "version": "v1.2",
+        "version_code": 5,
+        "desc": "方舟干员随机数据模拟简历，有一定制约。使用 .draw 简历帮助 获取帮助",
+        "download_link": "",
+        "author": "语隼",
+        "type": "Deck"
     }
 ]
