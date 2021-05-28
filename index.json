@@ -115,5 +115,14 @@
         "download_link": "",
         "author": "涩谷",
         "type": "Deck"
+    },
+    {
+        "name": "猫",
+        "version": "v1.0.0",
+        "version_code": 5,
+        "desc": "每一个人都想有一只小猫，这个牌堆满足你的云撸猫需求",
+        "download_link": "",
+        "author": "星空",
+        "type": "Deck"
     }
 ]
