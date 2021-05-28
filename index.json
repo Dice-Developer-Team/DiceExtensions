@@ -160,5 +160,14 @@
         "download_link": "",
         "author": "仑质（BenzenPenxil）& 鱼仙",
         "type": "Deck"
+    },
+    {
+        "name": "魔杖制作",
+        "version": "v1.1",
+        "version_code": 5,
+        "desc": "随机生成一根魔杖。牌堆内容来源于哈利波特官方。适合配合哈利波特相关的牌堆使用。",
+        "download_link": "",
+        "author": "叶川",
+        "type": "Deck"
     }
 ]
