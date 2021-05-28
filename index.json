@@ -196,5 +196,14 @@
         "download_link": "",
         "author": "安语Anrry",
         "type": "Deck"
+    },
+    {
+        "name": "皇室战争卡组生成器",
+        "version": "1.0",
+        "version_code": 5,
+        "desc": "按照个人理解对皇室卡牌分类后写的一个智能（？）搭配卡组的牌堆，希望能有点用",
+        "download_link": "",
+        "author": "Suomi-KP31",
+        "type": "Deck"
     }
 ]
