@@ -322,5 +322,14 @@
         "download_link": "",
         "author": "书架菌",
         "type": "Deck"
+    },
+    {
+        "name": "细胞神曲相关",
+        "version": "1.0",
+        "version_code": 1,
+        "desc": "整合一些原创及亲友创作的细胞神曲相关牌堆",
+        "download_link": "",
+        "author": "琅音",
+        "type": "Deck"
     }
 ]
