@@ -259,5 +259,14 @@
         "download_link": "",
         "author": "书架菌",
         "type": "Deck"
+    },
+    {
+        "name": "永夜后日谈",
+        "version": "v1.2",
+        "version_code": 5,
+        "desc": "永夜后日谈人偶设计内容，为了满足更多人的需要内容较多",
+        "download_link": "",
+        "author": "Azusa",
+        "type": "Deck"
     }
 ]
