@@ -268,5 +268,14 @@
         "download_link": "",
         "author": "Azusa",
         "type": "Deck"
+    },
+    {
+        "name": "COC职业牌堆",
+        "version": "1.0",
+        "version_code": 5,
+        "desc": "coc调查员常用职业牌堆",
+        "download_link": "",
+        "author": "鱼仙",
+        "type": "Deck"
     }
 ]
