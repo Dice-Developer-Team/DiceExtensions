@@ -36,6 +36,15 @@
         "type": "Deck"
     },
     {
+        "name": "明日方舟经典",
+        "version": "210314",
+        "version_code": 5,
+        "desc": "包含明日方舟最新版本的全部干员，支持单次抽取与十连抽取两种模式。",
+        "download_link": "",
+        "author": "仑质（BenzenPenxil）",
+        "type": "Deck"
+    },
+    {
         "name": "东方Project角色",
         "version": "v1.1.2",
         "version_code": 5,
