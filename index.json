@@ -223,5 +223,14 @@
         "download_link": "",
         "author": "语隼",
         "type": "Deck"
+    },
+    {
+        "name": "轮回游戏",
+        "version": "1.0.0_β",
+        "version_code": 5,
+        "desc": "本牌堆为轮回游戏跑团群内的定制牌堆，主要用于属性骰点以及扭蛋机抽奖（不跑此规则的基本没有用处）",
+        "download_link": "",
+        "author": "陈末/Jigsaw",
+        "type": "Deck"
     }
 ]
