@@ -88,5 +88,14 @@
         "download_link": "",
         "author": "兰山鲨鱼（lanshanshayu）",
         "type": "Deck"
+    },
+    {
+        "name": "老婆生成器",
+        "version": "v1.0",
+        "version_code": 5,
+        "desc": "老婆生成器",
+        "download_link": "",
+        "author": "幽月琉璃",
+        "type": "Deck"
     }
 ]
